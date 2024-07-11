@@ -1,4 +1,4 @@
-#Project 01 : Simple To-Do List Manager 
+Project 01 : Simple To-Do List Manager 
 
 Project Description:
 The "Simple To-Do List Manager" is a Python-based application that allows users to manage their daily tasks and keep track of their to-do list. The application provides a user-friendly command-line interface, enabling users to add, remove, and view tasks easily. The project's main goal is to provide a straightforward and efficient way for users to organize their tasks and improve productivity.
